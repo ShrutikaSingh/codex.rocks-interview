@@ -15,6 +15,8 @@ The below images are just examples of it/ You can try your own ideas, styling, d
 
 ![Screenshot 2020-05-18 at 2 40 34 PM](https://user-images.githubusercontent.com/42492660/82210715-33cef280-992d-11ea-9dfc-8fd31cab8a38.png)
 
+![Screenshot 2020-05-18 at 3 58 44 PM](https://user-images.githubusercontent.com/42492660/82210977-b192fe00-992d-11ea-9125-da85a3b8af8f.png)
+
 We will be focusing on the functionality more. 
 It is necessary that the form should have all the functionalities mentioned in points 1, 2 & 3.
 
