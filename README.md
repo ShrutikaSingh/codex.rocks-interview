@@ -12,6 +12,9 @@ This page should include the following:
 5. All DOM manipulation should be done using jQuery - don't use any vanilla JavaScript properties or methods to interact with the DOM!
 
 The below images are just examples of it/ You can try your own ideas, styling, designs, etc.
+
+![Screenshot 2020-05-18 at 2 40 34 PM](https://user-images.githubusercontent.com/42492660/82210715-33cef280-992d-11ea-9dfc-8fd31cab8a38.png)
+
 We will be focusing on the functionality more. 
 It is necessary that the form should have all the functionalities mentioned in points 1, 2 & 3.
 
