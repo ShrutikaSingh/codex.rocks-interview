@@ -8,7 +8,7 @@ This page should include the following:
 1. A form, where you can add something to the list and rate it.
 2. A table of all of the things you've added.
 3. A delete button for each row of the table that lets you remove elements from the list.
-4. BONUS: A sorting feature, so you can sort entries in the table by their title or their rating. (To implement this you may need to research JavaScript's sort method.)
+4. A sorting feature, so you can sort entries in the table by their title or their rating both. (To implement this you may need to research JavaScript's sort method.)
 5. All DOM manipulation should be done using jQuery - don't use any vanilla JavaScript properties or methods to interact with the DOM!
 
 The below images are just examples of it/ You can try your own ideas, styling, designs, etc.
