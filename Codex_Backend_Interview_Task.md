@@ -2,6 +2,9 @@
 To get an OverView of Codex.Rocks Product, You can visit https://codex.rocks/
 
 # Backend Task
+
+**NOTE** :- We are extremely against the copy-paste, Please proceed further only if you think you are really interested in this internship and try to solve the assignment by yourself. Take minimal help from the internet.
+
 Your task is to build a simple stateless microservices in nodeJs, with three major functionalities -
 - Authentication
 - JSON patching
