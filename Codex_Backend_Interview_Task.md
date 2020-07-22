@@ -1,6 +1,8 @@
-# Backend Task
+# Codex.Rocks is a product based company which is building The Fastest Learning Online Software Game to teach kids to learn code.
+To get an OverView of Codex.Rocks Product, You can visit https://codex.rocks/
 
-Your task is to build a simple stateless microservices in Nodejs, with three major functionalities -
+# Backend Task
+Your task is to build a simple stateless microservices in nodeJs, with three major functionalities -
 - Authentication
 - JSON patching
 - Image Thumbnail Generation
@@ -73,5 +75,4 @@ Download the image, resize to 50x50 pixels, and return the resulting thumbnail.
 
 
 #### Important
-
-Please DO NOT fork this repo. Instead send the GitHub link to someone who interviewed you to take the interview forward.
+Fork this repo and Send the GitHub link to someone who interviewed you to take the interview forward.

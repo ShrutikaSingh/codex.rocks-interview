@@ -2,7 +2,7 @@
 
 **NOTE** :- We are extremely against the copy-paste, Please proceed further only if you think you are really interested in this internship and try to solve the assignment by yourself. Take minimal help from the internet.
 
-Build a listing page where users can add and rate examples from a category (e.g. movies, todo list, albums, blogs, or sports). 
+Build a listing page where users can add and rate examples from a category (e.g. movies, todo list, albums, blogs, or sports).
 
 This page should include the following:
 1. A form, where you can add something to the list and rate it.
@@ -17,12 +17,12 @@ The below images are just examples of it/ You can try your own ideas, styling, d
 
 ![Screenshot 2020-05-18 at 3 58 44 PM](https://user-images.githubusercontent.com/42492660/82210977-b192fe00-992d-11ea-9125-da85a3b8af8f.png)
 
-We will be focusing on the functionality more. 
+We will be focusing on the functionality more.
 It is necessary that the form should have all the functionalities mentioned in points 1, 2 & 3.
 
 
 Points to note:
-	
+
 - Ideally, Write code in pure jquery without using any other frameworks.
 - You don’t need to connect the frontend with any API or Backend services, just use any JSON file for fetching data, You can create your own JSON file or take one from here. https://jsonplaceholder.typicode.com/
 - The code should work in the browser (this is not a nodeJS app).
@@ -31,7 +31,7 @@ Points to note:
 
 Complete your code in the <script> tag in the same file.
 
-Upload the codes in your public GitHub repository and On completion, 
+Upload the codes in your public GitHub repository and On completion,
 #### Mail us the GitHub link at the below-mentioned email address.
 #### Mail Id:- theomoule@gmail.com
 
