@@ -78,4 +78,6 @@ Download the image, resize to 50x50 pixels, and return the resulting thumbnail.
 
 
 #### Important
-Fork this repo and Send the GitHub link to someone who interviewed you to take the interview forward.
+Fork this repo and after completing the task, Mail the GitHub forked link to shrutika051220@gmail.com
+
+- Include a working Dockerfile with the app directory.
